@@ -148,7 +148,7 @@ Here are some ideas to get you started:
 
 ```text
 Python   3 hrs 58 mins    █████████████████████████   40.00 %
-Flutter   11Ms    █████████████████████████   100.00 %
+Flutter   11Ms    █████████████████████████   80.00 %
 ```
 <!--END_SECTION:waka-->
 
